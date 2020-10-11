@@ -1,2 +1,2 @@
-# mit
+# MIT
 Métro Information Tracker
